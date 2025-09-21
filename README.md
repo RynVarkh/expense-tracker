@@ -22,7 +22,9 @@ It allows you to **add daily expenses** and stores them in a JSON file with time
 ## 📂 Project Structure
 
 ├── expenseTracker.py # Main script
+
 ├── expenses.json # Auto-created file to store expenses
+
 └── README.md # Project documentation
 
 ---
